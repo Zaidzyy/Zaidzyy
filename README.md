@@ -46,8 +46,6 @@
   <img src="https://img.shields.io/badge/SIEM-8a2be2?style=for-the-badge&logo=splunk&logoColor=white">
   <img src="https://img.shields.io/badge/Threat_Detection-0f766e?style=for-the-badge&logo=elastic&logoColor=white">
   <img src="https://img.shields.io/badge/MITRE_ATT%26CK-c1121f?style=for-the-badge&logo=mitre&logoColor=white">
-  <img src="https://img.shields.io/badge/Sigma-8a2be2?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Semgrep-1b1e2b?style=for-the-badge&logo=semgrep&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2496ed?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub_Actions-2088ff?style=for-the-badge&logo=githubactions&logoColor=white">
