@@ -1,17 +1,4 @@
-<img width="1584" height="396" alt="06-monochrome-amber" src="https://github.com/user-attachments/assets/7bddc9ba-7db6-4a1c-8e96-06b5017944bf" /><svg xmlns="http://www.w3.org/2000/svg" width="1584" height="396" viewBox="0 0 1584 396">
 
-<rect width="1584" height="396" fill="url(#bg)"/>
-<path d="M0 330L320 240L480 300L620 210" fill="none" stroke="#F59E0B" stroke-opacity=".2"/>
-<path d="M1584 70L1370 125L1260 70" fill="none" stroke="#F59E0B" stroke-opacity=".16"/>
-<g text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif">
-<text x="792" y="105" font-size="40" font-weight="800" letter-spacing="10" fill="#FAFAFA">AI SECURITY ENGINEER</text>
-<line x1="470" y1="126" x2="1114" y2="126" stroke="#525252"/>
-<text x="792" y="160" font-size="15" letter-spacing="5" fill="#F59E0B">SECURE  •  AUTOMATE  •  INNOVATE</text>
-<text x="792" y="210" font-size="12.5" letter-spacing="2.25" fill="#D4D4D4">OFFENSIVE SECURITY  ·  PENETRATION TESTING  ·  AGENTIC AI</text>
-<text x="792" y="236" font-size="12.5" letter-spacing="2.25" fill="#A3A3A3">AI AUTOMATION  ·  SECURITY ENGINEERING</text>
-</g>
-<g transform="translate(792 292)"><rect x="-210" y="-1" width="420" height="2" fill="#262626"/><rect x="-55" y="-2" width="110" height="4" fill="#F59E0B"><animate attributeName="x" values="-210;155;-210" dur="5s" repeatCount="indefinite"/></rect></g>
-<text x="792" y="338" text-anchor="middle" font-family="ui-monospace,Consolas,monospace" font-size="9" letter-spacing="4" fill="#737373">
 
 
 ## Heya! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
