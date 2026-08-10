@@ -1,17 +1,5 @@
-<img width="1584" height="396" alt="06-monochrome-amber" src="https://github.com/user-attachments/assets/43dafdc6-eef9-45cf-b1c5-437561e4e62b" />![banner](/git.PNG)
+<img width="1584" height="396" alt="06-monochrome-amber" src="https://github.com/user-attachments/assets/7bddc9ba-7db6-4a1c-8e96-06b5017944bf" /><svg xmlns="http://www.w3.org/2000/svg" width="1584" height="396" viewBox="0 0 1584 396">
 
-![Uploading <svg xmlns="http://www.w3.org/2000/svg" width="1584" height="396" viewBox="0 0 1584 396">
-<defs>
-      <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-        <stop offset="0" stop-color="#080808"/><stop offset=".52" stop-color="#101010"/><stop offset="1" stop-color="#090909"/>
-      </linearGradient>
-      <radialGradient id="g1"><stop offset="0" stop-color="#F59E0B" stop-opacity=".22"/><stop offset="1" stop-color="#F59E0B" stop-opacity="0"/></radialGradient>
-      <radialGradient id="g2"><stop offset="0" stop-color="#FBBF24" stop-opacity=".18"/><stop offset="1" stop-color="#FBBF24" stop-opacity="0"/></radialGradient>
-      <linearGradient id="sweep"><stop offset="0" stop-color="#F59E0B" stop-opacity="0"/><stop offset=".5" stop-color="#F59E0B" stop-opacity=".7"/><stop offset="1" stop-color="#FBBF24" stop-opacity="0"/></linearGradient>
-      <filter id="blur"><feGaussianBlur stdDeviation="7"/></filter>
-      <filter id="glow"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
-      
-    </defs>
 <rect width="1584" height="396" fill="url(#bg)"/>
 <path d="M0 330L320 240L480 300L620 210" fill="none" stroke="#F59E0B" stroke-opacity=".2"/>
 <path d="M1584 70L1370 125L1260 70" fill="none" stroke="#F59E0B" stroke-opacity=".16"/>
@@ -23,42 +11,8 @@
 <text x="792" y="236" font-size="12.5" letter-spacing="2.25" fill="#A3A3A3">AI AUTOMATION  ·  SECURITY ENGINEERING</text>
 </g>
 <g transform="translate(792 292)"><rect x="-210" y="-1" width="420" height="2" fill="#262626"/><rect x="-55" y="-2" width="110" height="4" fill="#F59E0B"><animate attributeName="x" values="-210;155;-210" dur="5s" repeatCount="indefinite"/></rect></g>
-<text x="792" y="338" text-anchor="middle" font-family="ui-monospace,Consolas,monospace" font-size="9" letter-spacing="4" fill="#737373">SECURITY / AI / AUTOMATION / RESEARCH</text>
-</svg>06-monochrome-amber.svg…]()
+<text x="792" y="338" text-anchor="middle" font-family="ui-monospace,Consolas,monospace" font-size="9" letter-spacing="4" fill="#737373">
 
-<svg xmlns="http://www.w3.org/2000/svg" width="1584" height="396" viewBox="0 0 1584 396">
-<defs>
-      <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-        <stop offset="0" stop-color="#050505"/><stop offset=".52" stop-color="#0D0809"/><stop offset="1" stop-color="#070707"/>
-      </linearGradient>
-      <radialGradient id="g1"><stop offset="0" stop-color="#FF3B30" stop-opacity=".22"/><stop offset="1" stop-color="#FF3B30" stop-opacity="0"/></radialGradient>
-      <radialGradient id="g2"><stop offset="0" stop-color="#FF7A66" stop-opacity=".18"/><stop offset="1" stop-color="#FF7A66" stop-opacity="0"/></radialGradient>
-      <linearGradient id="sweep"><stop offset="0" stop-color="#FF3B30" stop-opacity="0"/><stop offset=".5" stop-color="#FF3B30" stop-opacity=".7"/><stop offset="1" stop-color="#FF7A66" stop-opacity="0"/></linearGradient>
-      <filter id="blur"><feGaussianBlur stdDeviation="7"/></filter>
-      <filter id="glow"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
-      
-    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
-      <path d="M40 0H0V40" fill="none" stroke="#fff" stroke-opacity=".045"/>
-    </pattern>
-    </defs>
-<rect width="1584" height="396" fill="url(#bg)"/>
-<g opacity=".12" stroke="#FF3B30"><path d="M0 80H1584M0 150H1584M0 220H1584M0 290H1584M0 360H1584"/><path d="M120 0V396M360 0V396M600 0V396M840 0V396M1080 0V396M1320 0V396"/></g>
-<g fill="#FF3B30" opacity=".55"><circle cx="95" cy="85" r="3"/><circle cx="1485" cy="315" r="3"/></g>
-<g text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif">
-<text x="792" y="102" font-size="40" font-weight="800" letter-spacing="9" fill="#fff">AI SECURITY ENGINEER</text>
-<text x="792" y="150" font-size="15" letter-spacing="5" fill="#FF5A52">SECURE  •  AUTOMATE  •  INNOVATE</text>
-<text x="792" y="198" font-size="12.5" letter-spacing="2.2" fill="#E5E5E5">OFFENSIVE SECURITY  ·  PENETRATION TESTING  ·  AGENTIC AI</text>
-<text x="792" y="224" font-size="12.5" letter-spacing="2.2" fill="#A3A3A3">AI AUTOMATION  ·  SECURITY ENGINEERING</text>
-</g>
-<g transform="translate(792 285)" fill="none" stroke="#FF3B30">
-<rect x="-165" y="-19" width="330" height="38" rx="19" stroke-opacity=".35"/><path d="M-135 0H135" stroke-opacity=".18"/>
-<circle cx="-135" r="4" fill="#FF3B30"><animate attributeName="cx" values="-135;135;-135" dur="4s" repeatCount="indefinite"/></circle>
-</g>
-<g font-family="ui-monospace,Consolas,monospace" font-size="10" fill="#7F1D1D" opacity=".8"><text x="72" y="54">THREAT_ENGINE / ACTIVE</text><text x="72" y="70">&gt; detect.analyze.respond()</text><text x="1310" y="350">SECURITY.RUNTIME</text></g>
-<rect y="355" width="1584" height="2" fill="#FF3B30" opacity=".65"><animate attributeName="opacity" values=".3;1;.3" dur="2s" repeatCount="indefinite"/></rect>
-</svg>
-
-<img width="1584" height="396" alt="02-threat-console-red" src="https://github.com/user-attachments/assets/1daf24a5-8aa0-429a-b650-eb435236475b" />
 
 ## Heya! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 I'm Zaid, a Computer Science undergrad student with a background in Cyber Security and Artificial Intelligence
