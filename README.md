@@ -19,7 +19,6 @@
   <img src="https://img.shields.io/badge/Docker-2496ed?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub_Actions-2088ff?style=for-the-badge&logo=githubactions&logoColor=white">
-  <img src="https://img.shields.io/badge/MITRE_ATT%26CK-c1121f?style=for-the-badge&logo=mitre&logoColor=white">
 </p>
 
 <!-- AI / LLM / Agents -->
