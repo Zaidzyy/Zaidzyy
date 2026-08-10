@@ -7,6 +7,13 @@
 </div>
 
 
+
+
+## Heya! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+I'm Zaid, a Computer Science undergrad student with a background in Cyber Security and Artificial Intelligence
+- Currently, I work at ADNOC HQ in the AI/Cybersecurity space
+- Profound interest in building projects and products that 'stick'
+
 ## 🛠 My Stack
 
 <!-- Offensive Security -->
@@ -50,13 +57,6 @@
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
   <img src="https://img.shields.io/badge/Tailwind_CSS-06b6d4?style=for-the-badge&logo=tailwindcss&logoColor=white">
 </p>
-
-
-
-## Heya! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-I'm Zaid, a Computer Science undergrad student with a background in Cyber Security and Artificial Intelligence
-- Currently, I work at ADNOC HQ in the AI/Cybersecurity space
-- Profound interest in building projects and products that 'stick'
 
 ###
 
