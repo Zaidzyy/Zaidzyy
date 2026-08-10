@@ -1,7 +1,7 @@
 
 <img src="./7.svg" alt="AI Security Engineer Banner" >
 
-## 🛠 What I Use
+## 🛠 My stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=ffd43b">
