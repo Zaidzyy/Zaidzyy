@@ -58,20 +58,6 @@ I'm Zaid, a Computer Science undergrad student with a background in Cyber Securi
   <img src="https://img.shields.io/badge/Tailwind_CSS-06b6d4?style=for-the-badge&logo=tailwindcss&logoColor=white">
 </p>
 
-###
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Zaidzyy/notZaid/stats-output/stats.svg"
-       height="150"
-       alt="stats graph" />
-  <img hspace="20"
-       src="https://raw.githubusercontent.com/Zaidzyy/notZaid/languages-output/languages.svg"
-       height="150"
-       alt="languages graph" />
-</div>
-
-###
-
 
 ## 📚 Recent Learning Projects
 
