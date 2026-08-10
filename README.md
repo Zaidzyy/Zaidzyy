@@ -1,5 +1,6 @@
 
 <img src="./7.svg" alt="AI Security Engineer Banner" >
+<img src="./7_hacker_vibe.svg" alt="AI Security Engineer Banner" >
 
 ## 🛠 My Stack
 
