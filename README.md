@@ -74,7 +74,7 @@ I'm Zaid, a Computer Science graduate focused on the intersection of **AI, cyber
 
 
 ## 🎓 Education
-- Bachelor's Degree @ Birla Institute of Technology Pilani, Dubai (2022 - 2026)
+- Bachelor's Degree in Computer Science @ Birla Institute of Technology Pilani, Dubai (2022 - 2026)
 
 - School @ Chettinad Vidyashram, Chennai (2008 - 2022)
 
