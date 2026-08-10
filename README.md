@@ -43,7 +43,7 @@ I'm Zaid, a Computer Science undergrad student with a background in Cyber Securi
 - School @ Chettinad Vidyashram, Chennai (2008 - 2022)
 
 
-## 🛠 Technologies I Use
+## 🛠 What I Use
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=ffd43b">
