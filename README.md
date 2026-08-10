@@ -1,4 +1,3 @@
-<img src="./06-monochrome-amber.svg" alt="AI Security Engineer Banner" >
 <img src="./02-portfolio-cards.svg" alt="AI Security Engineer Banner" >
 <img src="./06-portfolio-soft-blue.svg" alt="AI Security Engineer Banner" >
 <img src="./07-portfolio-three-cards.svg" alt="AI Security Engineer Banner" >
