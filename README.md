@@ -22,7 +22,6 @@
 <!-- AI / LLM / Agents -->
 <p align="center">
   <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white">
-  <img src="https://img.shields.io/badge/AI_Agents-6c5ce7?style=for-the-badge&logo=robotframework&logoColor=white">
   <img src="https://img.shields.io/badge/RAG-7b2cbf?style=for-the-badge&logo=openai&logoColor=white">
   <img src="https://img.shields.io/badge/LangChain-1c3c3c?style=for-the-badge&logo=chainlink&logoColor=white">
   <img src="https://img.shields.io/badge/Claude%20Code-d97757?style=for-the-badge&logo=anthropic&logoColor=white">
