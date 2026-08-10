@@ -28,6 +28,7 @@
   <img src="https://img.shields.io/badge/MCP-1c1c1c?style=for-the-badge&logo=anthropic&logoColor=white">
   <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white">
   <img src="https://img.shields.io/badge/n8n-ea4b71?style=for-the-badge&logo=n8n&logoColor=white">
+  <img src="https://img.shields.io/badge/AI_Agents-6c5ce7?style=for-the-badge&logo=robotframework&logoColor=white">
   <img src="https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub_Actions-2088ff?style=for-the-badge&logo=githubactions&logoColor=white">
 </p>
