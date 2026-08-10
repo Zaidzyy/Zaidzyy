@@ -28,6 +28,60 @@
   <img src="https://img.shields.io/badge/MITRE_ATT%26CK-c1121f?style=for-the-badge&logo=mitre&logoColor=white">
 </p>
 
+## 🛠 What I Use
+
+<!-- Languages & Web -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=ffd43b">
+  <img src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06b6d4?style=for-the-badge&logo=tailwindcss&logoColor=white">
+</p>
+
+<!-- AI / LLM / Agents -->
+<p align="center">
+  <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white">
+  <img src="https://img.shields.io/badge/AI_Agents-6c5ce7?style=for-the-badge&logo=robotframework&logoColor=white">
+  <img src="https://img.shields.io/badge/RAG-7b2cbf?style=for-the-badge&logo=openai&logoColor=white">
+  <img src="https://img.shields.io/badge/LangChain-1c3c3c?style=for-the-badge&logo=chainlink&logoColor=white">
+  <img src="https://img.shields.io/badge/Claude-d97757?style=for-the-badge&logo=anthropic&logoColor=white">
+  <img src="https://img.shields.io/badge/MCP-1c1c1c?style=for-the-badge&logo=anthropic&logoColor=white">
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white">
+  <img src="https://img.shields.io/badge/n8n-ea4b71?style=for-the-badge&logo=n8n&logoColor=white">
+</p>
+
+<!-- Offensive Security -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Kali_Linux-557c94?style=for-the-badge&logo=kalilinux&logoColor=white">
+  <img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=gnometerminal&logoColor=white">
+  <img src="https://img.shields.io/badge/Burp_Suite-ff6633?style=for-the-badge&logo=burpsuite&logoColor=white">
+  <img src="https://img.shields.io/badge/Metasploit-2b2b2b?style=for-the-badge&logo=metasploit&logoColor=white">
+  <img src="https://img.shields.io/badge/BloodHound-1e1e2e?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Impacket-3776ab?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Nuclei-ff6b00?style=for-the-badge">
+  <img src="https://img.shields.io/badge/sqlmap-c1121f?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Active_Directory-0078d4?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Penetration_Testing-000000?style=for-the-badge">
+</p>
+
+<!-- Defense · Detection · DevOps -->
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenVAS-2e8b57?style=for-the-badge&logo=securityscorecard&logoColor=white">
+  <img src="https://img.shields.io/badge/Wazuh-005571?style=for-the-badge&logo=wazuh&logoColor=white">
+  <img src="https://img.shields.io/badge/SIEM-8a2be2?style=for-the-badge&logo=splunk&logoColor=white">
+  <img src="https://img.shields.io/badge/Threat_Detection-0f766e?style=for-the-badge&logo=elastic&logoColor=white">
+  <img src="https://img.shields.io/badge/MITRE_ATT%26CK-c1121f?style=for-the-badge&logo=mitre&logoColor=white">
+  <img src="https://img.shields.io/badge/Sigma-8a2be2?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Semgrep-1b1e2b?style=for-the-badge&logo=semgrep&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ed?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088ff?style=for-the-badge&logo=githubactions&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-fcc624?style=for-the-badge&logo=linux&logoColor=black">
+</p>
+
 ## Heya! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 I'm Zaid, a Computer Science undergrad student with a background in Cyber Security and Artificial Intelligence
 - Currently, I work at ADNOC HQ in the AI/Cybersecurity space
