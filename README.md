@@ -1,5 +1,12 @@
 <img src="./7.svg" alt="AI Security Engineer Banner" >
 
+<div align="center">
+
+<a href="https://notzaid.framer.website/"><img src="https://img.shields.io/badge/Portfolio-0e0e0e?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a> <a href="https://www.linkedin.com/in/mdzaid2005/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="mailto:Zaid_u@hotmail.com"><img src="https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> <a href="https://www.instagram.com/zaid_2k5/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+
+</div>
+
+
 ## 🛠 My Stack
 
 <!-- Offensive Security -->
