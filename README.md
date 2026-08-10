@@ -57,6 +57,13 @@ I'm Zaid, a Computer Science graduate focused on the intersection of **AI, cyber
   <img src="https://img.shields.io/badge/Tailwind_CSS-06b6d4?style=for-the-badge&logo=tailwindcss&logoColor=white">
 </p>
 
+### `things I've built`
+
+| | |
+|---|---|
+| **🤖 [AI SOC Analyst L1](https://github.com/Zaidzyy/AI-SOC-Analyst-L1)**<br/><sub>AI-powered SOC automation system with 73 n8n nodes that autonomously triages Wazuh alerts, enriches threat intelligence, retrieves endpoint logs, and generates incident reports.</sub> | **🛡️ [SecOps-AI](https://github.com/Zaidzyy/SecOps-AI)**<br/><sub>Real-time AI-powered SIEM combining Scapy packet capture, custom CNN-based threat classification, and Groq/Ollama models with a live SOC dashboard for monitoring and incident triage.</sub> |
+| **💊 [Pill-Pal](https://www.instagram.com/p/DG7k4LWzL-r/?img_index=1)** · [Telegram](https://web.telegram.org/k/#@MedicGodBot)<br/><sub>AI-powered medication management assistant built as a Telegram chatbot. 🏆 1st Place — Microsoft Hack-a-Bot.</sub> | **🔍 [CVE Stack Monitor](https://github.com/Zaidzyy)**<br/><sub>Automated security monitoring project for tracking vulnerabilities and identifying relevant CVEs across software stacks.</sub> |
+
 
 ## 📚 Recent Learning Projects
 
