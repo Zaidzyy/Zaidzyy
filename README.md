@@ -15,7 +15,7 @@ I'm Zaid, a Computer Science graduate focused on the intersection of **AI, cyber
 
 ## 🛠 My Stack
 
-<!-- Offensive Security -->
+Offensive Security 
 <p align="center">
   <img src="https://img.shields.io/badge/Kali_Linux-557c94?style=for-the-badge&logo=kalilinux&logoColor=white">
   <img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=gnometerminal&logoColor=white">
