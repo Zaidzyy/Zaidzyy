@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+<style>
+.title{font-family:Inter,Arial,sans-serif;font-size:34px;font-weight:800;letter-spacing:-1px}
+.sub{font-family:Inter,Arial,sans-serif;font-size:13px;font-weight:500;letter-spacing:3px}
+.body{font-family:Inter,Arial,sans-serif;font-size:12px;font-weight:600}
+@keyframes pulse{0%,100%{opacity:.45}50%{opacity:1}}
+.pulse{animation:pulse 2.5s ease-in-out infinite}
+</style>
+
+<defs>
+ <linearGradient id="blue" x1="0" x2="1">
+  <stop stop-color="#087ea4"/>
+  <stop offset="1" stop-color="#04c6e9"/>
+ </linearGradient>
+</defs>
+
+<rect width="1200" height="300" fill="#050505"/>
+
+<!-- centered main panel -->
+<g transform="translate(150 58)">
+ <rect width="900" height="184" rx="30" fill="#101113"/>
+
+ <text x="450" y="52" text-anchor="middle" class="sub" fill="#778087">
+  CYBERSECURITY × AI
+ </text>
+
+ <text x="450" y="105" text-anchor="middle" class="title" fill="#fff">
+  AI SECURITY ENGINEER
+ </text>
+
+ <text x="450" y="139" text-anchor="middle" class="body" fill="#898d92">
+  OFFENSIVE SECURITY · PENETRATION TESTING · AGENTIC AI · AI AUTOMATION
+ </text>
+
+ <rect x="325" y="158" width="250" height="2" rx="1" fill="url(#blue)"/>
+</g>
+</svg>
