@@ -89,19 +89,7 @@ I'm Zaid, a Computer Science graduate focused on the intersection of **AI, cyber
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31uo2n5cop6usjiex2w5iv2llr64&count=5">
 </p>
 
-## Socials
-<p align="center">
-  <a href="https://wa.me/971542461358"><img alt="WhatsApp" title="WhatsApp" src="https://img.shields.io/badge/-WhatsApp-1DA1F2?style=for-the-badge&logo=WhatsApp&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/mdzaid2005/"><img alt="Linkedin" title="LinkedIn" src="https://img.shields.io/badge/-Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  
-  <a href="https://www.discord.gg/xdzaid">
-    <img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
-  <a href="https://zaid-portfolio-chi.vercel.app/">
-    <img alt="Website" title="Website" src="https://img.shields.io/badge/-Website-1DA1F2?style=for-the-badge&logo=internet-explorer&logoColor=white"/>
-  </a>
-  <a href="mailto:f20220172@dubai.bits-pilani.ac.in"><img alt="Mail" title="Mail" src="https://img.shields.io/badge/-Mail-0A66C2?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zaidzyy/notZaid/pacman-output/pacman-contribution-graph-dark.svg">
