@@ -33,7 +33,6 @@
   <img src="https://img.shields.io/badge/Burp_Suite-ff6633?style=for-the-badge&logo=burpsuite&logoColor=white">
   <img src="https://img.shields.io/badge/Metasploit-2b2b2b?style=for-the-badge&logo=metasploit&logoColor=white">
   <img src="https://img.shields.io/badge/BloodHound-1e1e2e?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Impacket-3776ab?style=for-the-badge">
   <img src="https://img.shields.io/badge/Nuclei-ff6b00?style=for-the-badge">
   <img src="https://img.shields.io/badge/sqlmap-c1121f?style=for-the-badge">
   <img src="https://img.shields.io/badge/Active_Directory-0078d4?style=for-the-badge">
