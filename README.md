@@ -69,7 +69,7 @@ I'm Zaid, a Computer Science graduate focused on the intersection of **AI, cyber
 ## 👔 Experience
 | Position               | Company                     | Title                         | Work Period       |
 | ---------------------- | --------------------------- | ----------------------------- | ----------------- |
-| **Intern**         | **ADNOC HQ**                | **CyberSecurity & AI Automation Engineering Intern**       | **01-2026 — 07-2026** |
+| **Intern**         | **ADNOC HQ**                | **AI Security Engineer**       | **01-2026 — 08-2026** |
 | **Intern**             | **Flamingus Technologies**  | **IT Consultant Intern**      | **06-2024 — 08-2024** |
 
 
