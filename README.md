@@ -43,6 +43,7 @@ I'm Zaid, a Computer Science graduate focused on the intersection of **AI, cyber
   <img src="https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub_Actions-2088ff?style=for-the-badge&logo=githubactions&logoColor=white">
   <img src="https://img.shields.io/badge/AI_Agents-6c5ce7?style=for-the-badge&logo=robotframework&logoColor=white">
+  <img src="https://img.shields.io/badge/Supabase-3ecf8e?style=for-the-badge&logo=supabase&logoColor=white">
 </p>
 
 
