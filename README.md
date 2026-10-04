@@ -15,39 +15,33 @@ I'm Zaid, a Computer Science graduate focused on **AI engineering, agentic syste
 
 ## 🛠 My Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Kali_Linux-557c94?style=for-the-badge&logo=kalilinux&logoColor=white">
-  <img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=gnometerminal&logoColor=white">
-  <img src="https://img.shields.io/badge/Burp_Suite-ff6633?style=for-the-badge&logo=burpsuite&logoColor=white">
-  <img src="https://img.shields.io/badge/Metasploit-2b2b2b?style=for-the-badge&logo=metasploit&logoColor=white">
-  <img src="https://img.shields.io/badge/BloodHound-1e1e2e?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Nuclei-ff6b00?style=for-the-badge">
-  <img src="https://img.shields.io/badge/sqlmap-c1121f?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Active_Directory-0078d4?style=for-the-badge">
-  <img src="https://img.shields.io/badge/OpenVAS-2e8b57?style=for-the-badge&logo=securityscorecard&logoColor=white">
-  <img src="https://img.shields.io/badge/Wazuh-005571?style=for-the-badge&logo=wazuh&logoColor=white">
-  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white">
-  <img src="https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=for-the-badge&logo=microsoft&logoColor=white">
-</p>
-
-<!-- AI / LLM / Agents -->
+<!-- AI / Agentic Systems -->
 <p align="center">
   <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white">
+  <img src="https://img.shields.io/badge/AI_Agents-6c5ce7?style=for-the-badge&logo=robotframework&logoColor=white">
+  <img src="https://img.shields.io/badge/Agentic_AI-7b2cbf?style=for-the-badge">
   <img src="https://img.shields.io/badge/RAG-7b2cbf?style=for-the-badge&logo=openai&logoColor=white">
-  <img src="https://img.shields.io/badge/LangChain-1c3c3c?style=for-the-badge&logo=chainlink&logoColor=white">
-  <img src="https://img.shields.io/badge/Claude%20Code-d97757?style=for-the-badge&logo=anthropic&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-2496ed?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/MCP-1c1c1c?style=for-the-badge&logo=anthropic&logoColor=white">
+  <img src="https://img.shields.io/badge/LangChain-1c3c3c?style=for-the-badge&logo=chainlink&logoColor=white">
+  <img src="https://img.shields.io/badge/LangGraph-1c3c3c?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Claude_Code-d97757?style=for-the-badge&logo=anthropic&logoColor=white">
   <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white">
   <img src="https://img.shields.io/badge/n8n-ea4b71?style=for-the-badge&logo=n8n&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088ff?style=for-the-badge&logo=githubactions&logoColor=white">
-  <img src="https://img.shields.io/badge/AI_Agents-6c5ce7?style=for-the-badge&logo=robotframework&logoColor=white">
-  <img src="https://img.shields.io/badge/Supabase-3ecf8e?style=for-the-badge&logo=supabase&logoColor=white">
 </p>
 
+<!-- AI Engineering / Automation -->
+<p align="center">
+  <img src="https://img.shields.io/badge/AI_Automation-6c5ce7?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Tool_Calling-412991?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Vector_DB-7b2cbf?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Embeddings-7b2cbf?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Supabase-3ecf8e?style=for-the-badge&logo=supabase&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ed?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088ff?style=for-the-badge&logo=githubactions&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white">
+</p>
 
-  <!-- Languages & Web -->
+<!-- Languages & Software Engineering -->
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=ffd43b">
   <img src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white">
@@ -55,6 +49,18 @@ I'm Zaid, a Computer Science graduate focused on **AI engineering, agentic syste
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
   <img src="https://img.shields.io/badge/Tailwind_CSS-06b6d4?style=for-the-badge&logo=tailwindcss&logoColor=white">
+</p>
+
+<!-- Security / AI Security -->
+<p align="center">
+  <img src="https://img.shields.io/badge/AI_Security-8e44ad?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Offensive_Security-c0392b?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Kali_Linux-557c94?style=for-the-badge&logo=kalilinux&logoColor=white">
+  <img src="https://img.shields.io/badge/Burp_Suite-ff6633?style=for-the-badge&logo=burpsuite&logoColor=white">
+  <img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=gnometerminal&logoColor=white">
+  <img src="https://img.shields.io/badge/BloodHound-1e1e2e?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Metasploit-2b2b2b?style=for-the-badge&logo=metasploit&logoColor=white">
+  <img src="https://img.shields.io/badge/Wazuh-005571?style=for-the-badge&logo=wazuh&logoColor=white">
 </p>
 
 ### 📚 Things I've Built
