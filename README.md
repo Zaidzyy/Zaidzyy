@@ -1,4 +1,4 @@
-<img src="./2.svg" alt="AI Security Engineer Banner" >
+<img src="./ai-engineer-github-banner.svg" alt="AI Engineer Banner" >
 
 <div align="center">
 
