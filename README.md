@@ -10,8 +10,8 @@
 
 
 ## Heya! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-I'm Zaid, a Computer Science graduate focused on the intersection of **AI, cybersecurity, and automation**.
-- Currently working at **ADNOC HQ as an AI Security Engineer**, building AI-powered security systems and automation workflows.
+I'm Zaid, a Computer Science graduate focused on **AI engineering, agentic systems, and intelligent automation**.
+- Previously worked at **ADNOC HQ as an AI Security Engineer**, building AI-powered systems, agentic workflows, and automation solutions.
 
 ## 🛠 My Stack
 
