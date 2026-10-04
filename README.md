@@ -57,7 +57,6 @@ I'm Zaid, a Computer Science graduate focused on **AI engineering, agentic syste
   <img src="https://img.shields.io/badge/Kali_Linux-557c94?style=for-the-badge&logo=kalilinux&logoColor=white">
   <img src="https://img.shields.io/badge/Burp_Suite-ff6633?style=for-the-badge&logo=burpsuite&logoColor=white">
   <img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=gnometerminal&logoColor=white">
-  <img src="https://img.shields.io/badge/BloodHound-1e1e2e?style=for-the-badge">
   <img src="https://img.shields.io/badge/Metasploit-2b2b2b?style=for-the-badge&logo=metasploit&logoColor=white">
   <img src="https://img.shields.io/badge/Wazuh-005571?style=for-the-badge&logo=wazuh&logoColor=white">
 </p>
