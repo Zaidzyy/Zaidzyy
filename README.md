@@ -32,7 +32,6 @@ I'm Zaid, a Computer Science graduate focused on **AI engineering, agentic syste
 <!-- AI Engineering / Automation -->
 <p align="center">
   <img src="https://img.shields.io/badge/AI_Automation-6c5ce7?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Tool_Calling-412991?style=for-the-badge">
   <img src="https://img.shields.io/badge/Vector_DB-7b2cbf?style=for-the-badge">
   <img src="https://img.shields.io/badge/Embeddings-7b2cbf?style=for-the-badge">
   <img src="https://img.shields.io/badge/Supabase-3ecf8e?style=for-the-badge&logo=supabase&logoColor=white">
