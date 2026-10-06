@@ -15,10 +15,6 @@
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Zaidzyy&style=flat-square&color=6c5ce7&label=PROFILE+VIEWS" alt="Profile Views"/>
-
 </div>
 
 <br>
