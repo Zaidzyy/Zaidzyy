@@ -35,10 +35,6 @@ Previously worked at **ADNOC HQ as an AI Security Engineer**, building AI-powere
 
 I like building systems where AI doesn't just generate an answer — it can **reason, use tools, execute actions, and verify the result.**
 
-```text
-Reason → Use Tools → Execute → Verify → Adapt
-```
-
 ---
 
 # ⚡ What I Do
