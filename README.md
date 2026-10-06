@@ -15,13 +15,17 @@
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Zaidzyy&style=flat-square&color=6c5ce7&label=PROFILE+VIEWS" alt="Profile Views"/>
+
 </div>
 
 <br>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=1000&color=9B6CFF&center=true&vCenter=true&width=800&lines=AI+Engineer+%7C+Agentic+Systems+%7C+AI+Security;Building+autonomous+systems+that+actually+do+things.;Turning+LLMs+into+tools%2C+workflows%2C+and+products.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=2500&pause=1000&color=9B6CFF&center=true&vCenter=true&width=850&lines=AI+Engineer+%7C+Agentic+Systems+%7C+AI+Security;Building+systems+that+reason%2C+act%2C+and+verify.;Turning+LLMs+into+tools%2C+workflows%2C+and+products.)](https://git.io/typing-svg)
 
 </div>
 
@@ -31,9 +35,9 @@
 
 I'm **Zaid**, a Computer Science graduate focused on **AI engineering, agentic systems, intelligent automation, and AI security**.
 
-Previously worked at **ADNOC HQ as an AI Security Engineer**, where I built AI-powered systems, agentic workflows, security automation, and intelligent SOC tooling.
+Previously worked at **ADNOC HQ as an AI Security Engineer**, building AI-powered systems, agentic workflows, security automation, and intelligent SOC tooling.
 
-I'm especially interested in building systems where AI can:
+I like building systems where AI doesn't just generate an answer — it can **reason, use tools, execute actions, and verify the result.**
 
 ```text
 Reason → Use Tools → Execute → Verify → Adapt
@@ -41,117 +45,117 @@ Reason → Use Tools → Execute → Verify → Adapt
 
 ---
 
-## ⚡ What I Build
+# ⚡ What I Do
+
+<div align="center">
 
 <table>
 <tr>
-<td width="33%" align="center">
 
-### 🤖 Agentic AI
+<td align="center" width="33%">
 
-Autonomous agents, tool use, MCP, RAG, orchestration and multi-step reasoning systems.
+### 🤖 BUILD
+
+LLM agents that **plan, call real tools, and finish the job** — not chatbots that simply describe it.
+
+<br>
+
+<img src="https://img.shields.io/badge/Claude_Agent_SDK-111111?style=flat-square&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/MCP-111111?style=flat-square&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tool_Calling-6c5ce7?style=flat-square"/>
+
+</td>
+
+<td align="center" width="33%">
+
+### ⚙️ AUTOMATE
+
+Pipelines that **run without me** — ingest, reason, act, report — with reliability and verification built in.
+
+<br>
+
+<img src="https://img.shields.io/badge/n8n-111111?style=flat-square&logo=n8n&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG-7b2cbf?style=flat-square"/>
+<img src="https://img.shields.io/badge/Automation-6c5ce7?style=flat-square"/>
 
 </td>
 
-<td width="33%" align="center">
+<td align="center" width="33%">
 
-### 🛡️ AI Security
+### 🛡️ SECURE
 
-AI-powered SOC systems, offensive security automation, LLM security and threat intelligence.
+Scope, approval, monitoring, and auditing around every action — because an agent you can't stop isn't yours.
 
-</td>
+<br>
 
-<td width="33%" align="center">
-
-### ⚙️ Automation
-
-Turning complex workflows into systems that can run, analyze and act with minimal human intervention.
+<img src="https://img.shields.io/badge/AI_Security-111111?style=flat-square"/>
+<img src="https://img.shields.io/badge/Red_Team-8e44ad?style=flat-square"/>
+<img src="https://img.shields.io/badge/Evaluation-c0392b?style=flat-square"/>
 
 </td>
+
 </tr>
 </table>
 
----
+<br>
 
-## 🧠 My Stack
+<b>Anyone can wire an AI to a tool.</b> <a href="https://notzaid.vercel.app/"><b>Wire it to a leash.</b></a>
 
-### AI / Agentic Systems
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/LLMs-111111?style=flat-square&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI_Agents-111111?style=flat-square&logo=robotframework&logoColor=white"/>
-<img src="https://img.shields.io/badge/Agentic_AI-6c5ce7?style=flat-square"/>
-<img src="https://img.shields.io/badge/RAG-7b2cbf?style=flat-square"/>
-<img src="https://img.shields.io/badge/MCP-111111?style=flat-square&logo=anthropic&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangChain-1c3c3c?style=flat-square&logo=chainlink&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangGraph-1c3c3c?style=flat-square"/>
-<img src="https://img.shields.io/badge/Claude_Code-d97757?style=flat-square&logo=anthropic&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/>
-<img src="https://img.shields.io/badge/n8n-ea4b71?style=flat-square&logo=n8n&logoColor=white"/>
-
-</p>
-
-### AI Engineering / Infrastructure
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Vector_DB-111111?style=flat-square"/>
-<img src="https://img.shields.io/badge/Embeddings-111111?style=flat-square"/>
-<img src="https://img.shields.io/badge/Supabase-3ecf8e?style=flat-square&logo=supabase&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088ff?style=flat-square&logo=githubactions&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-f05032?style=flat-square&logo=git&logoColor=white"/>
-
-</p>
-
-### Software Engineering
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=ffd43b"/>
-<img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-06b6d4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-
-</p>
-
-### Security
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/AI_Security-8e44ad?style=flat-square"/>
-<img src="https://img.shields.io/badge/Offensive_Security-c0392b?style=flat-square"/>
-<img src="https://img.shields.io/badge/Kali_Linux-557c94?style=flat-square&logo=kalilinux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Burp_Suite-ff6633?style=flat-square&logo=burpsuite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nmap-004170?style=flat-square&logo=gnometerminal&logoColor=white"/>
-<img src="https://img.shields.io/badge/Metasploit-2b2b2b?style=flat-square&logo=metasploit&logoColor=white"/>
-<img src="https://img.shields.io/badge/Wazuh-005571?style=flat-square&logo=wazuh&logoColor=white"/>
-
-</p>
+</div>
 
 ---
 
-# ⭐ Featured Project
+# 🧩 Engineering Toolbox
+
+Rather than listing every technology as a separate badge, these are the areas I work across:
 
 <table>
 <tr>
-<td width="100%">
+<td width="25%"><b>🤖 AI & Agents</b></td>
+<td>
 
-### 🔐 HackPit — Autonomous AI Pentest Cockpit
+LLMs · AI Agents · Agentic AI · MCP · RAG · Tool Calling ·
+LangChain · LangGraph · Claude Code · Ollama · Embeddings
 
-**[GitHub](https://github.com/Zaidzyy/HackPit) · [Live](https://zaidzyy.github.io/HackPit)**
+</td>
+</tr>
 
-An AI-driven security platform designed to autonomously reason through reconnaissance, tool execution, attack paths, vulnerabilities and security reporting.
+<tr>
+<td><b>⚙️ AI Engineering</b></td>
+<td>
 
-**2,700+ security techniques**  
-**30+ tool surfaces**  
-**Active Directory attack paths**  
-**Cloud privilege escalation**
+Agent Orchestration · Workflow Automation · Vector Databases ·
+AI Pipelines · Evaluation · Guardrails · Local LLMs
 
-`AI Agents` · `Pentesting` · `Tool Orchestration` · `Security`
+</td>
+</tr>
+
+<tr>
+<td><b>💻 Software</b></td>
+<td>
+
+Python · TypeScript · SQL · FastAPI · Next.js · Tailwind CSS ·
+Docker · Git · GitHub Actions · Supabase
+
+</td>
+</tr>
+
+<tr>
+<td><b>🛡️ Security</b></td>
+<td>
+
+AI Security · Offensive Security · SOC Engineering ·
+SIEM · Threat Intelligence · MITRE ATT&CK · Log Analysis
+
+</td>
+</tr>
+
+<tr>
+<td><b>🔧 Security Tooling</b></td>
+<td>
+
+Kali Linux · Burp Suite · Nmap · Metasploit · Wazuh ·
+VirusTotal · AbuseIPDB · OpenVAS · Nessus
 
 </td>
 </tr>
@@ -166,6 +170,23 @@ An AI-driven security platform designed to autonomously reason through reconnais
 
 <td width="50%" valign="top">
 
+### 🔐 HackPit
+
+**[GitHub](https://github.com/Zaidzyy/HackPit) · [Live](https://zaidzyy.github.io/HackPit)**
+
+Autonomous AI pentest cockpit that orchestrates reconnaissance, real security tooling, attack-path reasoning, vulnerability discovery, and grounded security reporting.
+
+**2,700+ security techniques**  
+**30+ tool surfaces**  
+**Active Directory attack paths**  
+**Cloud privilege escalation**
+
+`AI Agents` · `Pentesting` · `Tool Orchestration`
+
+</td>
+
+<td width="50%" valign="top">
+
 ### 🤖 AI SOC Analyst L1
 
 **[GitHub](https://github.com/Zaidzyy/AI-SOC-Analyst-L1) · [Live](https://zaidzyy.github.io/AI-SOC-Analyst-L1)**
@@ -176,21 +197,21 @@ AI-powered SOC automation system with **73 n8n nodes** that autonomously triages
 
 </td>
 
+</tr>
+
+<tr>
+
 <td width="50%" valign="top">
 
-### 🧠 AIPCC
+### 🧠 AIPCC — AI-Powered Cybersecurity Co-Pilot
 
 **[GitHub](https://github.com/Zaidzyy/AIPCC) · [Live](https://zaidzyy.github.io/AIPCC)**
 
-RAG-based cybersecurity co-pilot that analyzes security logs, generates grounded incident reports, maps findings to MITRE ATT&CK, and provides an interactive attack graph.
+RAG-based cybersecurity co-pilot that analyzes security logs, generates grounded incident reports, maps findings to MITRE ATT&CK, and provides an interactive attack graph and security analysis workflow.
 
 `RAG` · `LLMs` · `Cybersecurity` · `MITRE ATT&CK`
 
 </td>
-
-</tr>
-
-<tr>
 
 <td width="50%" valign="top">
 
@@ -198,11 +219,15 @@ RAG-based cybersecurity co-pilot that analyzes security logs, generates grounded
 
 **[GitHub](https://github.com/Zaidzyy/SecOps-AI) · [Live](https://zaidzyy.github.io/SecOps-AI)**
 
-Real-time AI-powered SIEM combining Scapy packet capture, CNN-based threat classification, and Groq/Ollama models with a live SOC dashboard.
+Real-time AI-powered SIEM combining Scapy packet capture, CNN-based threat classification, and Groq/Ollama models with a live SOC dashboard for monitoring and incident triage.
 
 `SIEM` · `ML` · `Packet Analysis` · `SOC`
 
 </td>
+
+</tr>
+
+<tr>
 
 <td width="50%" valign="top">
 
@@ -214,11 +239,9 @@ AI-powered medication management assistant built as a Telegram chatbot.
 
 🏆 **1st Place — Microsoft Hack-a-Bot**
 
+`AI` · `Telegram` · `Automation`
+
 </td>
-
-</tr>
-
-<tr>
 
 <td width="50%" valign="top">
 
@@ -226,19 +249,9 @@ AI-powered medication management assistant built as a Telegram chatbot.
 
 **[GitHub](https://github.com/Zaidzyy/ai-llm-injection)**
 
-AI security research project involving a successful direct prompt injection against an LLM, followed by an open-source red-team harness and injection detector.
+AI security research project involving a successful direct prompt injection against an LLM, followed by development of an open-source red-team harness and injection detector.
 
 `LLM Security` · `Red Teaming` · `Prompt Injection`
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🧪 More Experiments
-
-I'm constantly building and testing ideas around **AI agents, cybersecurity, automation, LLM infrastructure, and autonomous systems**.
-
-→ **[Explore all repositories](https://github.com/Zaidzyy?tab=repositories)**
 
 </td>
 
@@ -305,7 +318,7 @@ Chettinad Vidyashram, Chennai
 
 # 🟣 Contributions
 
-<p align="center">
+<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zaidzyy/notZaid/pacman-output/pacman-contribution-graph-dark.svg">
@@ -313,7 +326,7 @@ Chettinad Vidyashram, Chennai
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Zaidzyy/notZaid/pacman-output/pacman-contribution-graph.svg">
 </picture>
 
-</p>
+</div>
 
 ---
 
@@ -335,6 +348,17 @@ Chettinad Vidyashram, Chennai
 
 <div align="center">
 
-### `Build systems. Break assumptions. Automate everything.`
+### `Build. Automate. Secure.`
+
+<br>
+
+<img src="https://img.shields.io/badge/AI-Agents-111111?style=flat-square"/>
+<img src="https://img.shields.io/badge/Automation-Agentic-6c5ce7?style=flat-square"/>
+<img src="https://img.shields.io/badge/Security-AI_Security-8e44ad?style=flat-square"/>
+
+<br><br>
+
+<b>Anyone can wire an AI to a tool.</b><br>
+<a href="https://notzaid.vercel.app/"><b>Wire it to a leash.</b></a>
 
 </div>
