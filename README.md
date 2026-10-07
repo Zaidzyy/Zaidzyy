@@ -82,7 +82,7 @@
 | Project | | | | Links |
 |---|:-:|:-:|:-:|---|
 | 🔐 **[HackPit](https://github.com/Zaidzyy/HackPit)** | **2,700+**<br/><sub>techniques</sub> | **30+**<br/><sub>attack surfaces</sub> | **47k+**<br/><sub>exploit CVE index</sub> | [GitHub](https://github.com/Zaidzyy/HackPit) · [Live](https://zaidzyy.github.io/HackPit) |
-| 🤖 **[AI SOC Analyst L1](https://github.com/Zaidzyy/AI-SOC-Analyst-L1)** | **90**<br/><sub>n8n nodes</sub> | **&lt;2 min**<br/><sub>alert → report</sub> | **24%**<br/><sub>false-positive rate · 72 incidents</sub> | [GitHub](https://github.com/Zaidzyy/AI-SOC-Analyst-L1) · [Live](https://zaidzyy.github.io/AI-SOC-Analyst-L1) |
+| 🤖 **[AI SOC Analyst L1](https://github.com/Zaidzyy/AI-SOC-Analyst-L1)** | **90**<br/><sub>n8n nodes</sub> | **&lt;2 min**<br/><sub>alert → report</sub> | **72**<br/><sub>incidents analyzed</sub> | [GitHub](https://github.com/Zaidzyy/AI-SOC-Analyst-L1) · [Live](https://zaidzyy.github.io/AI-SOC-Analyst-L1) |
 | 🧠 **[AIPCC](https://github.com/Zaidzyy/AIPCC)** | **0.0%**<br/><sub>hallucination</sub> | **100%**<br/><sub>grounding</sub> | **682**<br/><sub>tests in CI</sub> | [GitHub](https://github.com/Zaidzyy/AIPCC) · [Live](https://zaidzyy.github.io/AIPCC) |
 | 🛡️ **[SecOps-AI](https://github.com/Zaidzyy/SecOps-AI)** | **0.985**<br/><sub>F1</sub> | **0.15%**<br/><sub>per-flow false positives</sub> | **265**<br/><sub>tests in CI</sub> | [GitHub](https://github.com/Zaidzyy/SecOps-AI) · [Live](https://zaidzyy.github.io/SecOps-AI) |
 | ⚡ **[LLM Injection Red-Team](https://github.com/Zaidzyy/ai-llm-injection)** | **10**<br/><sub>technique classes</sub> | **52**<br/><sub>offline tests</sub> | **LLM01**<br/><sub>OWASP · MITRE ATLAS</sub> | [GitHub](https://github.com/Zaidzyy/ai-llm-injection) |
