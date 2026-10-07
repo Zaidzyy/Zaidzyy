@@ -15,6 +15,7 @@
 
 <p align="center">
   <img src="./bits-logo.png" width="38" align="absmiddle">
+  &nbsp;
   <strong>B.E. Computer Science</strong>
   &nbsp;·&nbsp;
   BITS Pilani
