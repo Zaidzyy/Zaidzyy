@@ -57,7 +57,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=2600&pause=900&color=0f94fa&center=true&vCenter=true&width=820&lines=AI+Engineer+%7C+Agentic+Systems+%7C+AI+Security;Build.+Automate.+Secure.;LLM+agents+that+plan%2C+use+real+tools%2C+and+finish+the+job.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=2600&pause=900&color=0f94fa&center=true&vCenter=true&width=820&lines=Build.+Automate.+Secure.;LLM+agents+that+plan%2C+use+real+tools%2C+and+finish+the+job.)](https://git.io/typing-svg)
 
 </div>
 
