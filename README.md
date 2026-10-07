@@ -23,6 +23,17 @@
   <code>Sep 2022 — Sep 2026</code>
 </p>
 
+<p align="center">
+  <img src="./adnoc-logo.png" width="38" align="absmiddle">
+  &nbsp;
+  <strong>AI Security Engineering Intern</strong>
+  &nbsp;·&nbsp;
+  ADNOC Headquarters
+  &nbsp;·&nbsp;
+  <code>Jan 2026 — Aug 2026</code>
+</p>
+
+
 
 
 ## 🧰 Stack
@@ -83,14 +94,6 @@
 | 🏆 **1st place**, MTC × ACM-W Hack-a-Bot — [Pill-Pal](https://www.instagram.com/p/DG7k4LWzL-r/?img_index=1) (Team Botless, team of 5) | 📝 [Writeup](https://medium.com/@thezaiduniverse/ai-soc-agent-autonomous-security-operations-engine-c8c7b87d6ce3?sk=848e706b391de6b3242380dc12c50e40): 90 n8n nodes, local LLM, 24% FP across 72 incidents |
 | 🎓 6 verified certs — Anthropic · ISC2 · Microsoft · Google ×2 · IBM | 🔁 1,000+ tests in CI across the repos |
 
-
-## 👔 Experience
-
-<table>
-<tr><th align="left">Company</th><th align="left">Role</th><th align="left">Period</th></tr>
-<tr><td><b>ADNOC Headquarters</b></td><td>AI Security Engineering Intern</td><td>Jan 2026 – Aug 2026</td></tr>
-<tr><td><b>Flamingus Technologies</b></td><td>IT Consultant Intern</td><td>Jun 2024 – Aug 2024</td></tr>
-</table>
 
 
 ## 🎧 Listening
