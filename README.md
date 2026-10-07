@@ -33,7 +33,15 @@
   <code>Jan 2026 — Aug 2026</code>
 </p>
 
-
+<p align="center">
+  <img src="./flamingus-logo.png" width="38" align="absmiddle">
+  &nbsp;
+  <strong>IT Consultant Intern</strong>
+  &nbsp;·&nbsp;
+  Flamingus Technologies
+  &nbsp;·&nbsp;
+  <code>Jun 2024 — Aug 2024</code>
+</p>
 
 
 ## 🧰 Stack
